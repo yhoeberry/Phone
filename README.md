@@ -1,4 +1,4 @@
-touch README.md && cat > README.md <<'EOF'
+
 # 📱 Phone Sales Tracking and Payment System (Laravel)
 
 ## 📘 Description / Overview
@@ -97,13 +97,17 @@ public function store(Request $request) {
 
     return redirect()->back()->with('success', 'Sale record added successfully!');
 }
-(Add screenshots later using this format:) 
-![Screenshot](public/images/screenshot1.png)
+
 
 ---
+
+
 👥 Contributors
 Yhoebe Rae C. Bernal
 Jasmin Garcia
+
+
+
 ---
 📄 License
 
