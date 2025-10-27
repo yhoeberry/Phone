@@ -84,7 +84,7 @@ Then open the provided link in your browser to start using the application.
 ---
 
 ## 🖼️ Code Snippet
-```php
+php
 // Example Controller Function
 public function store(Request $request) {
     $sale = new Sale();
