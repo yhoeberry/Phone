@@ -100,10 +100,11 @@ public function store(Request $request) {
 (Add screenshots later using this format:) 
 ![Screenshot](public/images/screenshot1.png)
 
+---
 👥 Contributors
 Yhoebe Rae C. Bernal
 Jasmin Garcia
-
+---
 📄 License
 
 This project was created for educational purposes only as part of the Midterm Examination in Computer Programming (Laravel Framework).
