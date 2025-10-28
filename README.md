@@ -69,7 +69,7 @@ public function store(Request $request) {
     return redirect()->back()->with('success', 'Sale record added successfully!');
 }
 ---
-#**👥 Contributors**
+👥 Contributors
 
 _Yhoebe Rae C. Bernal-Developer, Owner
 
